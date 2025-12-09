@@ -1,4 +1,4 @@
-package com.dsahub.patterns.proxy.gumballmachinemonitor;
+package com.dsahub.patterns.proxy.remote;
 
 import java.rmi.Naming;
 import java.rmi.registry.LocateRegistry;
